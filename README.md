@@ -7,8 +7,8 @@ Follow these steps to set up the project:
 1. Clone the Repository
 Clone the repository to your local machine:
 
-bash
-``git clone https://github.com/ss-04/playwright-calculator-tests.git``
+```bash
+git clone https://github.com/ss-04/playwright-calculator-tests.git
 
 cd playwright-calculator-tests
 
