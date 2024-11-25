@@ -8,7 +8,8 @@ Follow these steps to set up the project:
 Clone the repository to your local machine:
 
 bash
-git clone https://github.com/ss-04/playwright-calculator-tests.git
+``git clone https://github.com/ss-04/playwright-calculator-tests.git``
+
 cd playwright-calculator-tests
 
 2. Install Dependencies
